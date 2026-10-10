@@ -1,5 +1,6 @@
 {
     "$schema": "https://www.schemastore.org/package.json",
+    "description": "UI untuk pencatatan IKM olahan ikan & ayam",
     "private": true,
     "type": "module",
     "scripts": {
